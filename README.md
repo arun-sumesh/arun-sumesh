@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @arun-sumesh
 - 👀 I’m interested in learning my fav topics, coding, implementing and executnig my thoughts.
 - 🌱 I’m currently learning The Complete 2022 Web Development Bootcamp.
-- 💞️ Currently I'm not looking to collaborate with anything
 - 📫 How to reach me --> My Email: mr.arun4343@aol.com
 - 
 
